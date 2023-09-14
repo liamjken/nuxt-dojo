@@ -1,6 +1,6 @@
 <template>
     <div>
-<h2>About</h2>
+<h2>About Liam</h2>
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis magnam dignissimos quia sit numquam totam in blanditiis quas laboriosam at.</p>
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis magnam dignissimos quia sit numquam totam in blanditiis quas laboriosam at.</p>
 <div>{{ data }}</div>
